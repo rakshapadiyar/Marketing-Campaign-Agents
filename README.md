@@ -3,5 +3,5 @@
 
 ##OUTPUT
 ![alt text](img/op1.png)
-
-<video controls src="20251226-1704-59.3187689.mp4" title="Title"></video>
+![alt text](img/op2.png)
+![alt text](img/op3.png)
